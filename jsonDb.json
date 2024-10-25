@@ -1,0 +1,1834 @@
+{
+  "19-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "5-sjcS9-5-jZm7AXAAAC",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 55,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1710892792857,
+        "date": "19-03-2024",
+        "location": {
+          "lat": 28.56369,
+          "lng": 77.38168,
+          "heading": "15",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "65c1fffbad7c536cda494086",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "undefined": {
+        "socketId": "W8lQp1gqPUWncb0BAAHT",
+        "corpId": "645caf975115e85968471fcf",
+        "driverId": "65f29358e800f72f506da29d",
+        "location": {
+          "lat": 28.63192737,
+          "lng": 77.37830552,
+          "heading": 1
+        },
+        "tripId": "65c1fffbad7c536cda494086",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710852765661,
+        "mobileBatteryStatus": 18,
+        "date": "19-03-2024",
+        "stopPointsDynamicETA": 125
+      },
+      "65c3727684ea2d512fa88b16": {
+        "socketId": "ZnaUPP2KAvNg9sLTAADn",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "65c3727684ea2d512fa88b16",
+        "driverId": "654ca58c3ed9ee08a9b57975",
+        "location": {
+          "lat": 28.6028485,
+          "lng": 77.3813628,
+          "heading": 0
+        },
+        "tripStatus": "STARTED",
+        "tripId": "65eec70e46ed6a168d19fb99",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1710851842419,
+        "mobileBatteryStatus": 56,
+        "date": "19-03-2024",
+        "stopPointsDynamicETA": 11527
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "undefined": {
+        "socketId": "9pr6i7geYoWDj0YnAAHh",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.05423,
+          "lng": 77.6016507,
+          "heading": 284.57470703125
+        },
+        "tripStatus": null,
+        "tripId": null,
+        "OVER_SPEEDING": 0.10037185251712799,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 52,
+        "updatedOn": 1710850602946,
+        "mobileBatteryStatus": 64,
+        "date": "19-03-2024",
+        "stopPointsDynamicETA": 15
+      },
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "9pr6i7geYoWDj0YnAAHh",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.0542276,
+          "lng": 77.6016511,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "65f9622db23f477ef8d295fe",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 52,
+        "updatedOn": 1710850607001,
+        "mobileBatteryStatus": 64,
+        "date": "19-03-2024",
+        "stopPointsDynamicETA": 15
+      }
+    }
+  },
+  "20-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "k3-xX8A1j0HFn09MAAAF",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": -87,
+        "OVER_SPEEDING": 17.513267517089844,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1710938372817,
+        "date": "20-03-2024",
+        "location": {
+          "lat": 28.58619906,
+          "lng": 77.34022558,
+          "heading": 319.5225830078125,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "65fa91094e39eb5ecca1c7c7",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "65c3727684ea2d512fa88b16": {
+        "socketId": "wVCqa5_nHWhh1wjCAAGM",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "65c3727684ea2d512fa88b16",
+        "driverId": "654ca58c3ed9ee08a9b57975",
+        "location": {
+          "lat": 28.6028441,
+          "lng": 77.381326,
+          "heading": 229.34487915039062
+        },
+        "tripStatus": "STARTED",
+        "tripId": "65eec70e46ed6a168d19fb99",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1710916922436,
+        "mobileBatteryStatus": 73,
+        "date": "20-03-2024",
+        "stopPointsDynamicETA": 11599
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "suKIlur2P9lgvY91AAEP",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 37.4219983,
+          "lng": -122.084,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "65f0232b3ab4ac2fc04d7a85",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710920783568,
+        "mobileBatteryStatus": 100,
+        "date": "20-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "undefined": {
+        "socketId": "Ctmc7TDwH1zpTmlAAAae",
+        "corpId": "645caf975115e85968471fcf",
+        "driverId": "65f29358e800f72f506da29d",
+        "location": {
+          "lat": 28.63282618,
+          "lng": 77.38327695,
+          "heading": 74.25064849853516
+        },
+        "tripId": "65fa91094e39eb5ecca1c7c7",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710925743053,
+        "mobileBatteryStatus": 66,
+        "date": "20-03-2024",
+        "stopPointsDynamicETA": -491
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "2mS2FjpD0CTv3OfjAAF3",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.0542462,
+          "lng": 77.6016571,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "65fa735a4e39eb5ecca1c775",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710920971587,
+        "mobileBatteryStatus": 82,
+        "date": "20-03-2024",
+        "stopPointsDynamicETA": null
+      },
+      "undefined": {
+        "socketId": "2mS2FjpD0CTv3OfjAAF3",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.0542462,
+          "lng": 77.6016571,
+          "heading": 0
+        },
+        "tripStatus": null,
+        "tripId": null,
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710920969583,
+        "mobileBatteryStatus": 82,
+        "date": "20-03-2024",
+        "stopPointsDynamicETA": null
+      }
+    }
+  },
+  "21-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "DSmK2kXJOKgh1CfyAAAH",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 2831,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711015948060,
+        "date": "21-03-2024",
+        "location": {
+          "lat": 13.05570474,
+          "lng": 77.59838402,
+          "heading": 1,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "65fbba9ebcc1fd4faa0a3d54",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "654cce823ed9ee08a9b57a3b": {
+        "socketId": "GZd_8ZM1pZPya3QyAAYU",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "654cce823ed9ee08a9b57a3b",
+        "driverId": "64f847f2ba8d8f5fa3497273",
+        "location": {
+          "lat": 28.6028634,
+          "lng": 77.3813026,
+          "heading": 278.3556213378906
+        },
+        "tripStatus": "EXPIRED",
+        "tripId": "65698bd015938002e37d2bda",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1711019382777,
+        "mobileBatteryStatus": 98,
+        "date": "21-03-2024",
+        "stopPointsDynamicETA": 162780
+      },
+      "undefined": {
+        "socketId": "GZd_8ZM1pZPya3QyAAYU",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "driverId": "64f847f2ba8d8f5fa3497273",
+        "location": {
+          "lat": 28.6028634,
+          "lng": 77.3813026,
+          "heading": 278.3556213378906
+        },
+        "tripStatus": null,
+        "tripId": null,
+        "OVER_SPEEDING": 0.20600777864456177,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1711019373568,
+        "mobileBatteryStatus": 98,
+        "date": "21-03-2024",
+        "stopPointsDynamicETA": 162780
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "DSmK2kXJOKgh1CfyAAAH",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 804,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711065594644,
+        "date": "21-03-2024",
+        "location": {
+          "lat": 13.153716666667,
+          "lng": 77.557381666667,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "65fc07c2f0e35449f997a32d",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "undefined": {
+        "socketId": "UQ1kJGFpah7cLhlmAAXc",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.0542449,
+          "lng": 77.6016572,
+          "heading": 0
+        },
+        "tripStatus": null,
+        "tripId": null,
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711019095403,
+        "mobileBatteryStatus": 72,
+        "date": "21-03-2024",
+        "stopPointsDynamicETA": -51
+      },
+      "65fbff3cf0e35449f997a30b": {
+        "socketId": "iwC-Hxk2R7gE-pHMAAHK",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "vehicleId": "65fbff3cf0e35449f997a30b",
+        "driverId": "65f813351a7eeb759e96a64a",
+        "location": {
+          "lat": 13.05570458,
+          "lng": 77.59838409,
+          "heading": 1
+        },
+        "tripStatus": "NOSHOW",
+        "tripId": "65fbfe19f0e35449f997a300",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711015464460,
+        "mobileBatteryStatus": 34,
+        "date": "21-03-2024",
+        "stopPointsDynamicETA": null
+      }
+    },
+    "645cafce5115e85968471fd2": {
+      "6532702cdc877f61c4c64973": {
+        "socketId": "5X7RmdhG0mmmrR3-AATD",
+        "vendorId": "645cb2ae5115e8596847200d",
+        "corpId": "645cafce5115e85968471fd2",
+        "vehicleId": "6532702cdc877f61c4c64973",
+        "driverId": "645cba295115e85968472079",
+        "location": {
+          "lat": 13.0542639,
+          "lng": 77.6016585,
+          "heading": 275.0727233886719
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "65e98268875d1c7036b49aa8",
+        "OVER_SPEEDING": 0.12813647091388702,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 70,
+        "updatedOn": 1711009982809,
+        "mobileBatteryStatus": 87,
+        "date": "21-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": null
+      },
+      "undefined": {
+        "socketId": "5X7RmdhG0mmmrR3-AATD",
+        "vendorId": "645cb2ae5115e8596847200d",
+        "corpId": "645cafce5115e85968471fd2",
+        "driverId": "645cba295115e85968472079",
+        "location": {
+          "lat": 13.0542639,
+          "lng": 77.6016585,
+          "heading": 275.0727233886719
+        },
+        "tripStatus": null,
+        "tripId": null,
+        "OVER_SPEEDING": 0.12813647091388702,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 70,
+        "updatedOn": 1711009982805,
+        "mobileBatteryStatus": 87,
+        "date": "21-03-2024",
+        "stopPointsDynamicETA": null
+      }
+    }
+  },
+  "22-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "8eltbdzgYIy5fGtgAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 412,
+        "OVER_SPEEDING": 13.68058967590332,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711093319242,
+        "date": "22-03-2024",
+        "location": {
+          "lat": 28.61493993,
+          "lng": 77.31936725,
+          "heading": 208.69619750976562,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "65fd0f637da902581cdfff71",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "8eltbdzgYIy5fGtgAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 669,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711151985148,
+        "date": "22-03-2024",
+        "location": {
+          "lat": 13.153686666667,
+          "lng": 77.557463333333,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "65fd79ef1eccf52300a3c284",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "23-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "AcOSPLHv_DRrF9qtAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 1852,
+        "OVER_SPEEDING": 13.68058967590332,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711093319242,
+        "date": "23-03-2024",
+        "location": {
+          "lat": 28.61493993,
+          "lng": 77.31936725,
+          "heading": 208.69619750976562,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "65fd0f637da902581cdfff71",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "AcOSPLHv_DRrF9qtAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 2108,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711233212249,
+        "date": "23-03-2024",
+        "location": {
+          "lat": 13.151671666667,
+          "lng": 77.559383333333,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "65fd79ef1eccf52300a3c284",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "24-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "AcOSPLHv_DRrF9qtAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 1879,
+        "OVER_SPEEDING": 13.68058967590332,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711093319242,
+        "date": "24-03-2024",
+        "location": {
+          "lat": 28.61493993,
+          "lng": 77.31936725,
+          "heading": 208.69619750976562,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "65fd0f637da902581cdfff71",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "AcOSPLHv_DRrF9qtAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 2134,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711233212249,
+        "date": "24-03-2024",
+        "location": {
+          "lat": 13.151671666667,
+          "lng": 77.559383333333,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "65fd79ef1eccf52300a3c284",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "26-03-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "WE_ON9xivIKTI3oBAAAC",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": -35,
+        "OVER_SPEEDING": 13.68058967590332,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711093319242,
+        "dataPacketId": 1711093319242,
+        "date": "26-03-2024",
+        "location": {
+          "lat": 28.61493993,
+          "lng": 77.31936725,
+          "heading": 208.69619750976562,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "6602747fe271e035ef1b49d0",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "wtaE0rInIQgoRGBjAAKN",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.6028496,
+          "lng": 77.3812698,
+          "heading": 264.0743713378906
+        },
+        "tripStatus": "STARTED",
+        "tripId": "65fd359764e1000aa8b43436",
+        "OVER_SPEEDING": 0.45851802825927734,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1711455412274,
+        "mobileBatteryStatus": 95,
+        "date": "26-03-2024",
+        "stopPointsDynamicETA": 5676,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "WE_ON9xivIKTI3oBAAAC",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 15021,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711233212249,
+        "dataPacketId": 1711233212249,
+        "date": "26-03-2024",
+        "location": {
+          "lat": 13.151671666667,
+          "lng": 77.559383333333,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "66029c394d505e4239f6707d",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "27-03-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "X5bJ9I-F93plwooJAAJe",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.054233,
+          "lng": 77.6016585,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "6603c4d9674e8455b013cfb9",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711523319462,
+        "mobileBatteryStatus": 68,
+        "date": "27-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "j0_lvt14Td_8uIRYAAb2",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.64470711,
+          "lng": 77.37741093,
+          "heading": 71.19999694824219
+        },
+        "tripStatus": "ABSENT",
+        "tripId": "65fd359764e1000aa8b43436",
+        "OVER_SPEEDING": 3.309999942779541,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711545168579,
+        "mobileBatteryStatus": 64,
+        "date": "27-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "65f287c7e800f72f506da289": {
+        "socketId": "j0_lvt14Td_8uIRYAAb2",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "location": {
+          "lat": 28.64470711,
+          "lng": 77.37741093,
+          "heading": 71.19999694824219
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "6603aadad046852a4d61a1ae",
+        "OVER_SPEEDING": 3.309999942779541,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711545168993,
+        "mobileBatteryStatus": 64,
+        "date": "27-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "28-03-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "rhXpZkMAGP7xRoNPAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 679,
+        "OVER_SPEEDING": 30,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711632346239,
+        "dataPacketId": 1711632346239,
+        "date": "28-03-2024",
+        "location": {
+          "lat": 13.107713333333,
+          "lng": 77.580956666667,
+          "heading": "336",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "660516e747e9405d0862b997",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "rhXpZkMAGP7xRoNPAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711624432381,
+        "dataPacketId": 1711624432381,
+        "date": "28-03-2024",
+        "location": {
+          "lat": 37.421998333333335,
+          "lng": -122.084,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "660517ab47e9405d0862b99d",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "_0ZhHVA8A0RJvopjAAOL",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 13.055220354305362,
+          "lng": 77.6019698606422,
+          "heading": -1
+        },
+        "tripStatus": "ABSENT",
+        "tripId": "6604f2acc796db56b29713f0",
+        "OVER_SPEEDING": -1,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1711622738498,
+        "mobileBatteryStatus": -100,
+        "date": "28-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    }
+  },
+  "29-03-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "SvksNWhg6_8cMPMyAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 2119,
+        "OVER_SPEEDING": 30,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711632346239,
+        "dataPacketId": 1711632346239,
+        "date": "29-03-2024",
+        "location": {
+          "lat": 13.107713333333,
+          "lng": 77.580956666667,
+          "heading": "336",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "660516e747e9405d0862b997",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "SvksNWhg6_8cMPMyAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711624432381,
+        "dataPacketId": 1711624432381,
+        "date": "29-03-2024",
+        "location": {
+          "lat": 37.421998333333335,
+          "lng": -122.084,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "660517ab47e9405d0862b99d",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "LPJrWrLR37mZ9zmmAAEG",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {},
+        "tripStatus": "STARTED",
+        "tripId": "66068a954961ff609b1a6e6e",
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1711715744184,
+        "mobileBatteryStatus": -100,
+        "date": "29-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "6605601d47e9405d0862b9f6": {
+        "socketId": "G74uaIsjD9r_jPrRAA5N",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6605601d47e9405d0862b9f6",
+        "driverId": "65f7db5f91a86f3485ce4b08",
+        "location": {
+          "lat": 28.644682,
+          "lng": 77.3772593,
+          "heading": 0
+        },
+        "tripStatus": "STARTED",
+        "tripId": "66068b264961ff609b1a6e82",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711712721016,
+        "mobileBatteryStatus": 34,
+        "date": "29-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "30-03-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "SvksNWhg6_8cMPMyAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 2253,
+        "OVER_SPEEDING": 30,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711632346239,
+        "dataPacketId": 1711632346239,
+        "date": "30-03-2024",
+        "location": {
+          "lat": 13.107713333333,
+          "lng": 77.580956666667,
+          "heading": "336",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "660516e747e9405d0862b997",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "SvksNWhg6_8cMPMyAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1711624432381,
+        "dataPacketId": 1711624432381,
+        "date": "30-03-2024",
+        "location": {
+          "lat": 37.421998333333335,
+          "lng": -122.084,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "660517ab47e9405d0862b99d",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "31-03-2024": {
+    "645caf975115e85968471fcf": {
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "skj2iqu_FLRY878wAAbB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.601432072080723,
+          "lng": 77.37956248215083,
+          "heading": -1
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "66068a954961ff609b1a6e6e",
+        "OVER_SPEEDING": -1,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1711881334093,
+        "mobileBatteryStatus": -100,
+        "date": "31-03-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    }
+  },
+  "01-04-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "hLw-YKp4RYJrlMM2AAAK",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 6420,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1711964082260,
+        "dataPacketId": 1711964082260,
+        "date": "01-04-2024",
+        "location": {
+          "lat": 13.054133333333,
+          "lng": 77.601595,
+          "heading": "69",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "660516e747e9405d0862b997",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "65fbf167cd874702c34c5747": {
+        "socketId": "DBsTVGWlSq7gQ0JKAAAR",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 23,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "868053057550634",
+        "panicAlert": 0,
+        "updatedOn": 1711964080013,
+        "dataPacketId": 1711964080013,
+        "date": "01-04-2024",
+        "location": {
+          "lat": 13.054166,
+          "lng": 77.601718,
+          "heading": 329,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65fbf167cd874702c34c5747",
+        "driverId": "65fc0405f0e35449f997a31e",
+        "tripId": "660a5fe576d8b650d0166aa8",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "hLw-YKp4RYJrlMM2AAAK",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 683,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 1,
+        "updatedOn": 1711977696231,
+        "dataPacketId": 1711977696231,
+        "date": "01-04-2024",
+        "location": {
+          "lat": 28.602815,
+          "lng": 77.3812867,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "660a4c6300f22a30ab0d7d79",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "NeAliMExvPKkp1e0AALq",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.6020823,
+          "lng": 77.38096709,
+          "heading": 184.46197509765625
+        },
+        "tripStatus": "STARTED",
+        "tripId": "6465ef43e0998c386f9694a7",
+        "OVER_SPEEDING": 11.695478439331055,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711973144339,
+        "mobileBatteryStatus": 20,
+        "date": "01-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "6605601d47e9405d0862b9f6": {
+        "socketId": "5mLkrMxskkAbsJDYAAaa",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6605601d47e9405d0862b9f6",
+        "driverId": "65f7db5f91a86f3485ce4b08",
+        "location": {
+          "lat": 28.61832159,
+          "lng": 77.37382122,
+          "heading": 184.23301696777344
+        },
+        "tripStatus": "STARTED",
+        "tripId": "66068b264961ff609b1a6e82",
+        "OVER_SPEEDING": 13.620290756225586,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711952220157,
+        "mobileBatteryStatus": 83,
+        "date": "01-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "66051d7e47e9405d0862b9a8": {
+        "socketId": "NeAliMExvPKkp1e0AALq",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "66051d7e47e9405d0862b9a8",
+        "driverId": "65d46a980e657d307d8ee79a",
+        "location": {
+          "lat": 28.6020823,
+          "lng": 77.38096709,
+          "heading": 184.46197509765625
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660a5c3176d8b650d0166a9c",
+        "OVER_SPEEDING": 11.695478439331055,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1711973144339,
+        "mobileBatteryStatus": 20,
+        "date": "01-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    }
+  },
+  "02-04-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "tRojkeavslQKZh3UAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 7892,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1712102397073,
+        "dataPacketId": 1712102397073,
+        "date": "02-04-2024",
+        "location": {
+          "lat": 13.153731666667,
+          "lng": 77.557381666667,
+          "heading": "102",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "660516e747e9405d0862b997",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "65fbf167cd874702c34c5747": {
+        "socketId": "lVAO1FSKhhdHjg9lAAAD",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": -191,
+        "OVER_SPEEDING": 26,
+        "gpsDeviceImei": "868053057550634",
+        "panicAlert": true,
+        "updatedOn": 1712044800012,
+        "dataPacketId": 1712044800012,
+        "date": "02-04-2024",
+        "location": {
+          "lat": 13.055421,
+          "lng": 77.608133,
+          "heading": 272,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65fbf167cd874702c34c5747",
+        "driverId": "65fc0405f0e35449f997a31e",
+        "tripId": "660bb312ba671f3657ffbe64",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "CCQ4UMzYhraYT1sGAASJ",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "location": {
+          "lat": 28.6028445,
+          "lng": 77.3813074,
+          "heading": 295.0429382324219
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "660b8ebfba671f3657ffbde9",
+        "OVER_SPEEDING": 0.12559644877910614,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712054828515,
+        "mobileBatteryStatus": 46,
+        "date": "02-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "Fx9vuIr7vSgMA-nZAAzH",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.610077082868994,
+          "lng": 77.37283631445841,
+          "heading": -1
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660bb5ebba671f3657ffbe93",
+        "OVER_SPEEDING": -1,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712059966757,
+        "mobileBatteryStatus": -100,
+        "date": "02-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "6605601d47e9405d0862b9f6": {
+        "socketId": "Ih6SBf-hxpnK8h74AAhb",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6605601d47e9405d0862b9f6",
+        "driverId": "65f7db5f91a86f3485ce4b08",
+        "location": {
+          "lat": 28.6028435,
+          "lng": 77.3813054,
+          "heading": 0
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660bb556ba671f3657ffbe6f",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712057133234,
+        "mobileBatteryStatus": 37,
+        "date": "02-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "03-04-2024": {
+    "6576d5e03b4d243db8833d82": {
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "oHuZndhv2vTRNxHYAAAE",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 8442,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356066325599",
+        "panicAlert": 0,
+        "updatedOn": 1712137271896,
+        "dataPacketId": 1712137271896,
+        "date": "03-04-2024",
+        "location": {
+          "lat": 13.05422,
+          "lng": 77.601815,
+          "heading": "249",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "tripId": "660516e747e9405d0862b997",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "65fbf167cd874702c34c5747": {
+        "socketId": "oHuZndhv2vTRNxHYAAAE",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": -111,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "868053057550634",
+        "panicAlert": 0,
+        "updatedOn": 1712136000027,
+        "dataPacketId": 1712136000027,
+        "date": "03-04-2024",
+        "location": {
+          "lat": 13.055446,
+          "lng": 77.608588,
+          "heading": 110,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65fbf167cd874702c34c5747",
+        "driverId": "65fc0405f0e35449f997a31e",
+        "tripId": "660cff31e2cf9943593f6be1",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    },
+    "645caf975115e85968471fcf": {
+      "66051d7e47e9405d0862b9a8": {
+        "socketId": "pWZMyCGsXEZftXPhACnj",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "66051d7e47e9405d0862b9a8",
+        "driverId": "65d46a980e657d307d8ee79a",
+        "location": {
+          "lat": 28.6028422,
+          "lng": 77.381219,
+          "heading": 258.2413024902344
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660cdfbaa8b79e35031753fa",
+        "OVER_SPEEDING": 0.7614376544952393,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712124072002,
+        "mobileBatteryStatus": 34,
+        "date": "03-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "65f287c7e800f72f506da289": {
+        "socketId": "cu-lg-9txTiEAY6KAAAB",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 1,
+        "updatedOn": 1712134274974,
+        "dataPacketId": 1712134274974,
+        "date": "03-04-2024",
+        "location": {
+          "lat": 28.6446846,
+          "lng": 77.3772673,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "COMPLETED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "6465ef43e0998c386f9694b5",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "9eFnP5_Ho3PeQ6LdAA8Z",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.60647755866202,
+          "lng": 77.3730194786849,
+          "heading": 0
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660bb5ebba671f3657ffbe93",
+        "OVER_SPEEDING": 0.5971187353134155,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712136795467,
+        "mobileBatteryStatus": 36,
+        "date": "03-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "6605601d47e9405d0862b9f6": {
+        "socketId": "5k_xtij7JyV0ADpaABCi",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6605601d47e9405d0862b9f6",
+        "driverId": "65f7db5f91a86f3485ce4b08",
+        "location": {
+          "lat": 28.6446774,
+          "lng": 77.37726,
+          "heading": 0
+        },
+        "tripStatus": "EXPIRED",
+        "tripId": "660a5c3276d8b650d0166aa1",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1712137255977,
+        "mobileBatteryStatus": 21,
+        "date": "03-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "04-04-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "KOhoTJlWmmteVJghAAAG",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 1,
+        "updatedOn": 1712134274974,
+        "dataPacketId": 1712134274974,
+        "date": "04-04-2024",
+        "location": {
+          "lat": 28.6446846,
+          "lng": 77.3772673,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "COMPLETED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "6465ef43e0998c386f9694b5",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "3-WidZSrvJaEO9pZABjW",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.610077082868994,
+          "lng": 77.37283631445841,
+          "heading": -1
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660bb5ebba671f3657ffbe93",
+        "OVER_SPEEDING": -1,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712210217090,
+        "mobileBatteryStatus": -100,
+        "date": "04-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65fbf167cd874702c34c5747": {
+        "socketId": "KOhoTJlWmmteVJghAAAG",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": -7,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "868053057550634",
+        "panicAlert": 0,
+        "updatedOn": 1712228410011,
+        "dataPacketId": 1712228410011,
+        "date": "04-04-2024",
+        "location": {
+          "lat": 13.05417,
+          "lng": 77.60174,
+          "heading": 289,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65fbf167cd874702c34c5747",
+        "driverId": "65fc0405f0e35449f997a31e",
+        "tripId": "660e56003dc12c6deff770b8",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "65f2c0de9d46e16e9d9136a0": {
+        "socketId": "g_htKkPcVIZv8nmVAAXG",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "vehicleId": "65f2c0de9d46e16e9d9136a0",
+        "driverId": "65f2c13c9d46e16e9d9136a5",
+        "location": {
+          "lat": 13.054183032363653,
+          "lng": 77.60180809535086,
+          "heading": 113.80000305175781
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "660e8930031a9939741a31c5",
+        "OVER_SPEEDING": 1.7699999809265137,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 48,
+        "updatedOn": 1712230550330,
+        "mobileBatteryStatus": 75,
+        "date": "04-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "05-04-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "00iOzUn6Ij6YeraTAAAe",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 173,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 1,
+        "updatedOn": 1712312555317,
+        "dataPacketId": 1712312555317,
+        "date": "05-04-2024",
+        "location": {
+          "lat": 28.6446828,
+          "lng": 77.3772671,
+          "heading": 0,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "660f8c5a031a9939741a31fe"
+      },
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "KTXUQlX5aOrL8PLeAAED",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.5562639,
+          "lng": 77.2896592,
+          "heading": 0
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660fc3e7031a9939741a326f",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1712311608898,
+        "mobileBatteryStatus": 41,
+        "date": "05-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "65fbf167cd874702c34c5747": {
+        "socketId": "CtxmqseKZ55qFT1WAAAB",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": -75,
+        "OVER_SPEEDING": 0,
+        "gpsDeviceImei": "868053057550634",
+        "panicAlert": 0,
+        "updatedOn": 1712310730010,
+        "dataPacketId": 1712310730010,
+        "date": "05-04-2024",
+        "location": {
+          "lat": 13.054244,
+          "lng": 77.601606,
+          "heading": 82,
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "65fbf167cd874702c34c5747",
+        "driverId": "65fc0405f0e35449f997a31e",
+        "tripId": "660f8ee6031a9939741a3221",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "660fcc3d031a9939741a32cb": {
+        "socketId": "00iOzUn6Ij6YeraTAAAe",
+        "vendorId": "657700873b4d243db8833dde",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": 155,
+        "OVER_SPEEDING": "21",
+        "gpsDeviceImei": "862648066440127",
+        "panicAlert": 0,
+        "updatedOn": 1712305183418,
+        "dataPacketId": 1712305183418,
+        "date": "05-04-2024",
+        "location": {
+          "lat": "13.013833",
+          "lng": "77.556061",
+          "heading": "91",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "660fcc3d031a9939741a32cb",
+        "driverId": "65f813351a7eeb759e96a64a",
+        "tripId": "660fd04d031a9939741a32d7",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "08-04-2024": {
+    "645caf975115e85968471fcf": {
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "in3Z19dMYJvvLCgWAATG",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 28.54396597648256,
+          "lng": 77.30983167608127,
+          "heading": -1
+        },
+        "tripStatus": "STARTED",
+        "tripId": "660fc3e7031a9939741a326f",
+        "OVER_SPEEDING": -1,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "updatedOn": 1712574990022,
+        "mobileBatteryStatus": -100,
+        "date": "08-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      },
+      "65f287c7e800f72f506da289": {
+        "socketId": "-i0oAhf6n5eqLGdKAAAN",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 70,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1712562873162,
+        "dataPacketId": 1712562873162,
+        "date": "08-04-2024",
+        "location": {
+          "lat": 28.60417,
+          "lng": 77.38043,
+          "heading": "15",
+          "battery": "0"
+        },
+        "tripStatus": "COMPLETED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "6465ef43e0998c386f9694b5",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6605601d47e9405d0862b9f6": {
+        "socketId": "e49vG2rituUbFDQ3AArA",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6605601d47e9405d0862b9f6",
+        "driverId": "65f7db5f91a86f3485ce4b08",
+        "location": {
+          "lat": 28.6446801,
+          "lng": 77.3772708,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "6613b1ea7063803db94b314f",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1712568986509,
+        "mobileBatteryStatus": 33,
+        "date": "08-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "09-04-2024": {
+    "645caf975115e85968471fcf": {
+      "65f287c7e800f72f506da289": {
+        "socketId": "onYnNaRmZvEVaiPKAAAI",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 70,
+        "gpsDeviceImei": "864356061191246",
+        "panicAlert": 0,
+        "updatedOn": 1712562873162,
+        "dataPacketId": 1712562873162,
+        "date": "09-04-2024",
+        "location": {
+          "lat": 28.60417,
+          "lng": 77.38043,
+          "heading": "15",
+          "battery": "0"
+        },
+        "tripStatus": "COMPLETED",
+        "vehicleId": "65f287c7e800f72f506da289",
+        "driverId": "65f29358e800f72f506da29d",
+        "tripId": "6465ef43e0998c386f9694b5",
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6614e64a8428fb0f532306cf": {
+        "socketId": "JGTU16zL1XFF8NEdAAcf",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6614e64a8428fb0f532306cf",
+        "driverId": "6614e67d8428fb0f532306d1",
+        "location": {
+          "lat": 28.6446833,
+          "lng": 77.377257,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "6614f983faa14669130ee7db",
+        "OVER_SPEEDING": 0.004773400258272886,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1712653703478,
+        "mobileBatteryStatus": 50,
+        "date": "09-04-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Vehicle Gps"
+      },
+      "6605601d47e9405d0862b9f6": {
+        "socketId": "YhmzGkOpPm9e_zt_AAAN",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "mobileBatteryStatus": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": null,
+        "stopPointsDynamicETA": null,
+        "OVER_SPEEDING": 70,
+        "gpsDeviceImei": "6543215678904567",
+        "panicAlert": 0,
+        "updatedOn": 1712567172093,
+        "dataPacketId": 1712567172093,
+        "date": "09-04-2024",
+        "location": {
+          "lat": 28.60417,
+          "lng": 77.38043,
+          "heading": "15",
+          "battery": "0"
+        },
+        "tripStatus": "STARTED",
+        "vehicleId": "6605601d47e9405d0862b9f6",
+        "driverId": "65f7db5f91a86f3485ce4b08",
+        "tripId": "6614ec098428fb0f532306e2",
+        "gpsTrackingMode": "Vehicle Gps"
+      }
+    }
+  },
+  "30-07-2024": {
+    "645caf975115e85968471fcf": {
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "suKIlur2P9lgvY91AAEP",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "645caf975115e85968471fcf",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 37.4219983,
+          "lng": -122.084,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "65f0232b3ab4ac2fc04d7a85",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710920783568,
+        "mobileBatteryStatus": 100,
+        "date": "30-07-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    },
+    "6576d5e03b4d243db8833d82": {
+      "6482bec1c3ac552ce1e8018b": {
+        "socketId": "suKIlur2P9lgvY91AAEP",
+        "vendorId": "645cb1555115e85968471fef",
+        "corpId": "6576d5e03b4d243db8833d82",
+        "vehicleId": "6482bec1c3ac552ce1e8018b",
+        "driverId": "64917d7c0aba622b92f09953",
+        "location": {
+          "lat": 37.4219983,
+          "lng": -122.084,
+          "heading": 0
+        },
+        "tripStatus": "COMPLETED",
+        "tripId": "65f0232b3ab4ac2fc04d7a85",
+        "OVER_SPEEDING": 0,
+        "GPS_SIGNAL_LOST": true,
+        "networkStrength": 99,
+        "updatedOn": 1710920783568,
+        "mobileBatteryStatus": 100,
+        "date": "30-07-2024",
+        "stopPointsDynamicETA": null,
+        "gpsTrackingMode": "Mobile Gps"
+      }
+    }
+  }
+}
